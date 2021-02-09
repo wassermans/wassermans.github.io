@@ -17,6 +17,7 @@
 }
 #boats {
         float:left;
+        margin-right:5px;
 }
 #Steven {
         float:right;
