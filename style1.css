@@ -27,9 +27,11 @@
 }
 #snowboarding {
         float:left;
+        margin:10px;
 }
 #Hawaii {
         float:right;
         width:200px;
         height:200px;
+        margin:10px;
 }
